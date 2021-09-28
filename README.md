@@ -1,2 +1,2 @@
 # coursera-go
-coursera Go language 
+Coursera GoLang course 
